@@ -16,6 +16,7 @@
 <p align="center">
 <br>
 ![logo](/dwarf.png)
+<br>
 </p>
 
 __Disclaimer:__ This project should be used for authorized testing or educational purposes only.
@@ -67,9 +68,9 @@ On blogger.com, create a blog and make sure you have the following settings:
 #### Making a post/submitting your code
 
 Once you have your blog online, you'll start posting on there to have your code executed on the client machine.
-First of all, write a piece of code and use the run.py to compile to base64
+First of all, write a piece of code and use the run.py to compile to base64. The two example files in this repository are there to show you what type of code you can have running on your client.
 ```sh
-$ python run.py --generate_post "code.py"
+$ python run.py --generate_post "example1.py"
 ```
 Now with your code already in base64, on the posting page, set the view as raw HTML and paste the base64 in there. This page can't containg anything else but the base64 piece of code.
 Your post title needs to be empty or with the name __"repeat"__. An empty title will have the clients to run the code only once or on every startup. An title with the __"repeat"__ word will have the client running this piece of code every time it checks for a new command.
