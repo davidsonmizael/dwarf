@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-![logo](https://i.imgur.com/Bpgk6LL.png)
+![logo](https://i.ibb.co/dG29KNR/dwarf.png)
 </p>
 
 __Disclaimer:__ This project should be used for authorized testing or educational purposes only.
