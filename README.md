@@ -13,11 +13,7 @@
 
 <hr>
 
-<p align="center">
-<br>
-![logo](/dwarf.png)
-<br>
-</p>
+![](/dwarf.png)
 
 __Disclaimer:__ This project should be used for authorized testing or educational purposes only.
 # How it works
