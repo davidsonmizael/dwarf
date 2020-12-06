@@ -1,0 +1,9 @@
+requests
+pywin32
+pyinstaller
+subprocess
+wmi
+pyautogui
+colorama
+termcolor
+argparse
